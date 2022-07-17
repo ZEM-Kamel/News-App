@@ -10,11 +10,11 @@ Application is responsible for getting news for different topics like Business, 
 
 Light Mode :
 
-![mockup light](https://github.com/ZEM-Kamel/News-App/blob/main/mockup/mockup%20light.png)
+![mockup light](https://github.com/ZEM-Kamel/mockups/blob/main/mockups/news%20mockup%20light.png)
 
 Dark Mode :
 
-![mockup dark](https://github.com/ZEM-Kamel/News-App/blob/main/mockup/mockup%20dark.png)
+![mockup dark](https://github.com/ZEM-Kamel/mockups/blob/main/mockups/news%20mockup%20dark.png)
 
 
 This project is a starting point for a Flutter application.
