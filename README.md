@@ -4,17 +4,17 @@ A new Flutter application.
 
 ## Getting Started
 
-Flutter application using Bloc,  Dio, and shared preferences.
+Flutter Application using Bloc ,Dio & Shared Preferences.
 
 Application is responsible for getting news for different topics like Business, Sports, and Science which are stored in an API. I used Dio to get data.
 
 Light Mode :
 
-![mockup light]()
+![mockup light](https://github.com/ZEM-Kamel/News-App/blob/main/mockup/mockup%20light.png)
 
 Dark Mode :
 
-![mockup dark]()
+![mockup dark](https://github.com/ZEM-Kamel/News-App/blob/main/mockup/mockup%20dark.png)
 
 
 This project is a starting point for a Flutter application.
